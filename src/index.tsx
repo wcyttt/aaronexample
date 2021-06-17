@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Route from "routes/index";
+import "./index.less";
 
 ReactDOM.render(
   <React.StrictMode>
